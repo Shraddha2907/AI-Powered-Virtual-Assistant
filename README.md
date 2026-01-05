@@ -15,16 +15,16 @@ SENTI is a Python-based virtual assistant capable of performing various tasks li
   - `pyttsx3` for offline speech synthesis (`speak_old` method).
   - `gTTS` and `pygame` for MP3-based speech playback (`speak` method).
 
-### 3. Web Operations 🌐
+### 3. Web Operations 
 - Opens popular websites like **Google**, **Facebook**, **YouTube**, and **LinkedIn** on user commands.
 
-### 4. Music Playback 🎵
+### 4. Music Playback 
 - Leverages a predefined `musicLibrary` module to fetch and play music from URLs.
 
-### 5. News Retrieval 📰
+### 5. News Retrieval 
 - Fetches and reads real-time news headlines using the **NewsAPI**.
 
-### 6. AI Query Handling 🤖
+### 6. AI Query Handling 
 - Interacts with **OpenAI's GPT-3.5 API** to answer general queries and handle tasks not covered by other functionalities.
 
 ---
