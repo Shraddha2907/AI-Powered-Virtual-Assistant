@@ -1,10 +1,10 @@
 # AI Powered Python Based Virtual Assistant 🧠🎙
 
-Senti is a Python-based virtual assistant capable of performing various tasks like opening websites, fetching news, playing music, and answering general queries using OpenAI's GPT API. This project combines speech recognition, API integration, and automation to deliver a versatile and intelligent user experience.
+SENTI is a Python-based virtual assistant capable of performing various tasks like opening websites, fetching news, playing music, and answering general queries using OpenAI's GPT API. This project combines speech recognition, API integration, and automation to deliver a versatile and intelligent user experience.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Speech Recognition
 - Utilizes the `speech_recognition` library to process voice commands.
@@ -29,7 +29,7 @@ Senti is a Python-based virtual assistant capable of performing various tasks li
 
 ---
 
-## 🛠 Technical Components
+##  Technical Components
 
 ### Speech Recognition
 - Powered by **Google's Speech-to-Text API** for converting voice commands into text.
@@ -46,7 +46,7 @@ Senti is a Python-based virtual assistant capable of performing various tasks li
 
 ---
 
-## ⚙ Execution Flow
+##  Execution Flow
 
 1. **Initialization**: 
    - Senti initializes by announcing, `"Initializing Senti..."`.
@@ -63,7 +63,7 @@ Senti is a Python-based virtual assistant capable of performing various tasks li
 
 ---
 
-## 🌟 Advantages
+##  Advantages
 
 - Modular design for easy maintenance and scalability.
 - Combines speech processing, APIs, and AI to create a seamless experience.
@@ -71,7 +71,7 @@ Senti is a Python-based virtual assistant capable of performing various tasks li
 
 ---
 
-## 📝 Prerequisites
+##  Prerequisites
 
 1. **Python Environment**: Ensure Python 3.7+ is installed.
 2. **Dependencies**: Install required libraries:
