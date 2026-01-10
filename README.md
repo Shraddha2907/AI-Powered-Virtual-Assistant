@@ -1,4 +1,4 @@
-# AI Powered Python Based Virtual Assistant 🧠🎙
+# AI Powered Python Based Voice Enabled Task Execution 🧠🎙
 
 SENTI is a Python-based virtual assistant capable of performing various tasks like opening websites, fetching news, playing music, and answering general queries using OpenAI's GPT API. This project combines speech recognition, API integration, and automation to deliver a versatile and intelligent user experience.
 
